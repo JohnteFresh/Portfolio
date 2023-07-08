@@ -152,7 +152,7 @@ header {
   font-weight: 500;
   line-height: 1.5rem;
   text-align: center;
-  background-image: url(icons/);
+  background-image: url(icons/ic_download.png);
   background-repeat: no-repeat;
   background-position: 75%;
   margin-top: 1.25rem;
@@ -169,7 +169,7 @@ header {
 
 .language {
   background-color: #1c528a;
-  background-image: url(icons/);
+  background-image: url(icons/#.png);
   background-repeat: no-repeat;
   background-position: right bottom;
   color: white;
@@ -185,7 +185,7 @@ header {
 
 .skills {
   background-color: #febf52;
-  background-image: url(icons/);
+  background-image: url(icons/ic_skills.png);
   background-repeat: no-repeat;
   background-position: right bottom;
   color: white;
@@ -220,7 +220,7 @@ header {
   flex-direction: column;
 }
 
-.getstarted {
+.get-started {
   font-family: 'Playfair Display', arial, sans-serif;
   font-size: 3.125rem;
   font-weight: 400;
